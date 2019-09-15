@@ -21,7 +21,7 @@ Live Website preview
 Screenshot
 -----------
 <p>
- 
+ <img src="interno-eg.png" width="100%" />
 </p>
 
 
